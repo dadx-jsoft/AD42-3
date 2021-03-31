@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android 42 buoi 3</string>
+    <string name="app_title">Movies</string>
+    <string name="name_control">Đồng ý</string>
+    <string name="home">Home</string>
+
+    <color name="unselected">#474848</color>
+</resources>
